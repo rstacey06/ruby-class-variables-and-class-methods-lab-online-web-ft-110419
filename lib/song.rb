@@ -1,4 +1,7 @@
-class Song
+class Song 
+  
+  attr_accessor :name :artists :genre
+  
   
 
 
